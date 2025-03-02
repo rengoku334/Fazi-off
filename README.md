@@ -15,3 +15,4 @@ def on_mouse_down(pos):
 else:
      print("You missed!")
      quit()
+     python game.py
